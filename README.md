@@ -14,6 +14,8 @@ MultGás!!! projeto criado com react native expo !!
 - lottie animations
 - react navigation
 - styled-components
+- google-maps
+- location
 
 # ⚙ Instalação ⚙
 
